@@ -1,1 +1,1 @@
-# CS4U-Intro-03-JavaScript-Hello_World
+# ICS4U-Intro-03-JavaScript-Hello_World
